@@ -1,0 +1,2 @@
+# SONAR-Dataset-Rock-vs-Mine-Prediction-Using-LogisticRegression-Machine-Learning-Project
+The data set was downloaded from kaggle, that contains 208 rows and 60 features including the target output containing labels as 'rock' and 'mine',the,since its for training purpose so dataset was  already preprocessed , logistic regression is used for classification where data was split using train test split and then model trained for prediction.
